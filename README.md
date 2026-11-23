@@ -1,98 +1,138 @@
- <!-- HEADER -->
+ <!-- PURPLE PIXEL-ART HEADER -->
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2E1065,45:6D28D9,100:C084FC&height=230&section=header&text=Rafta%20Azka%20Naufal&fontSize=43&fontColor=FFFFFF&fontAlignY=38&desc=Developer%20%7C%20Technology%20Enthusiast%20%7C%20Creative%20Thinker&descAlignY=58&descSize=15&animation=fadeIn" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:160B27,30:4C1D68,65:7E3AA5,100:C084FC&height=220&section=header&text=RAFTА%20AZKA%20NAUFAL&fontSize=38&fontColor=FFFFFF&fontAlignY=38&desc=DEVELOPER%20%7C%20TECH%20ENTHUSIAST&descSize=15&descAlignY=59&animation=fadeIn" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=1000&color=C084FC&center=true&vCenter=true&width=600&lines=Turning+Ideas+Into+Digital+Experiences;Exploring+Technology+%26+Innovation;Learning%2C+Building%2C+Growing." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=1000&color=C084FC&center=true&vCenter=true&width=500&lines=Hello%2C+World!;Building+Ideas+Into+Digital+Experiences;Learning+%E2%80%A2+Creating+%E2%80%A2+Improving" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/WEB%20DEVELOPMENT-6D28D9?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/DATA%20ANALYTICS-7C3AED?style=for-the-badge&logo=databricks&logoColor=white" />
-  <img src="https://img.shields.io/badge/TECH%20INNOVATION-9333EA?style=for-the-badge&logo=probot&logoColor=white" />
+  <img src="https://img.shields.io/badge/FOCUS-Software%20Development-6D28D9?style=flat-square" />
+  <img src="https://img.shields.io/badge/INTEREST-Data%20Analytics-9333EA?style=flat-square" />
+  <img src="https://img.shields.io/badge/MINDSET-Learn%20%26%20Build-C084FC?style=flat-square" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/YOUR_USERNAME">GitHub</a> •
+  <a href="YOUR_LINKEDIN_URL">LinkedIn</a> •
+  <a href="mailto:YOUR_EMAIL">Email</a>
 </p>
 
 ---
 
-## 👨🏻‍💻 About Me
+## ✦ About Me
 
-Hi! I'm **Rafta Azka Naufal**, a technology enthusiast with a strong curiosity about how digital products are designed, developed, and improved.
+Hi! I'm **Rafta Azka Naufal**, an aspiring developer with a strong interest in technology, software development, and digital innovation.
 
-I enjoy exploring the intersection of technology, creativity, and problem-solving. For me, programming is more than just writing code — it's about transforming ideas into meaningful solutions and creating experiences that make a difference.
+I enjoy exploring how technology works, building digital projects, and transforming ideas into practical solutions. I'm particularly interested in web development, database management, and data analytics.
 
-Currently, I'm focusing on developing my knowledge and skills in web development, database management, and data analytics while continuously exploring new technologies.
+For me, learning to code is not just about writing programs. It's about understanding problems, developing logical thinking, and creating something useful through technology.
 
-**A little more about me:**
+**Currently exploring:**
 
-- 💻 Passionate about web development and building digital experiences.
-- 📊 Interested in data analytics, databases, and turning data into insights.
-- 🚀 Enjoy experimenting with ideas and developing personal projects.
-- 🧠 Always curious about emerging technologies and innovation.
-- 🌱 Believe in continuous learning, consistency, and self-improvement.
+- Software Development & Web Technologies
+- Database Management & SQL
+- Data Analytics & Data Processing
+- UI/UX Design & Digital Experiences
+- Problem Solving & Programming Logic
 
-> *"Great things are built through curiosity, creativity, and the courage to keep learning."*
+I'm always open to learning new things, collaborating on interesting projects, and challenging myself to grow as a developer.
 
 ---
 
-## ⚡ Tech Stack & Tools
+## 🛠️ Tech Stack
 
-**Development**
+### Languages & Markup
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,python" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,mysql" />
 </p>
 
-**Database & Workflow**
+### IDEs & Developer Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,figma" />
+</p>
+
+### Technical Foundations
+
+`Programming Logic` · `Database Management` · `SQL Queries` · `Web Development` · `Data Processing` · `Problem Solving`
+
+---
+
+## 📂 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">AreaPulse</h3>
+<p align="center">
+  <img src="https://placehold.co/600x300/241333/C084FC?text=AREAPULSE" width="100%" alt="AreaPulse project preview"/>
+</p>
+<p align="center">
+  A digital platform focused on location-based information and exploring useful spatial experiences.
+</p>
+<p align="center">
+  <code>WEB DEVELOPMENT</code> <code>DIGITAL PRODUCT</code>
+</p>
+<p align="center">
+  <a href="YOUR_AREAPULSE_REPO">View Repository ↗</a>
+</p>
+</td>
+<td width="50%">
+<h3 align="center">TeachSpace</h3>
+<p align="center">
+  <img src="https://placehold.co/600x300/241333/C084FC?text=TEACHSPACE" width="100%" alt="TeachSpace project preview"/>
+</p>
+<p align="center">
+  An educational platform prototype designed to explore digital learning experiences.
+</p>
+<p align="center">
+  <code>WEB DEVELOPMENT</code> <code>EDTECH</code>
+</p>
+<p align="center">
+  <a href="YOUR_TEACHSPACE_REPO">View Repository ↗</a>
+</p>
+</td>
+</tr>
+</table>
+
+### Other Projects
+
+- **MySQL Practice** — Learning database design, SQL queries, and data management.
+
+---
+
+## 📊 GitHub Overview
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=120B1B&title_color=C084FC&icon_color=A855F7&text_color=E9D5FF" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=midnight-purple&hide_border=true&bg_color=120B1B&title_color=C084FC&text_color=E9D5FF" />
+</p>
+
+<p align="center">
+  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=midnight-purple&hide_border=true&background=120B1B&ring=C084FC&fire=A855F7&currStreakLabel=C084FC" />
 </p>
 
 ---
 
-## 🚀 Featured Projects
-
-| Project | Description |
-|:---|:---|
-| **AreaPulse** | Location-based digital information platform |
-| **TeachSpace** | Educational platform prototype |
-| **MySQL Practice** | Database management and SQL learning |
-
----
-
-## 📊 GitHub Analytics
+## 🌌 Contribution Activity
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C084FC&icon_color=A78BFA&text_color=E9D5FF" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C084FC&text_color=E9D5FF" />
-</p>
-
-<p align="center">
-  <img width="85%" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=C084FC&currStreakLabel=C084FC" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=120B1B&color=C084FC&line=9333EA&point=E9D5FF&area=true&hide_border=true" />
 </p>
 
 ---
 
-## 🌐 Connect With Me
-
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/Email-9333EA?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  <i>"Every line of code is another step forward."</i>
 </p>
 
 <p align="center">
-  <i>Building my journey, one line of code at a time.</i>
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE%20VISITORS&color=7E22CE&style=flat-square" />
 </p>
 
-<!-- FOOTER -->
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2E1065,45:6D28D9,100:C084FC&height=120&section=footer" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:160B27,40:4C1D68,75:7E3AA5,100:C084FC&height=120&section=footer" />
 </p>
