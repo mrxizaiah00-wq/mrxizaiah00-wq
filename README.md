@@ -1,89 +1,101 @@
-# Rafta Azka Engineer
-
-### 🚀 Aspiring Developer | Technology Enthusiast | Data Explorer
-
+ <!-- PURPLE WAVE HEADER -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+Digital+Experiences;Exploring+Technology+%26+Innovation;Turning+Ideas+Into+Reality" alt="Typing SVG" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4C1D95,50:7C3AED,100:C084FC&height=220&section=header&text=Hi,%20I'm%20REX&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Building%20Digital%20Experiences&descAlignY=58&descSize=18&animation=fadeIn" />
 </p>
 
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Web+Developer;Technology+Enthusiast;Data+Analytics+Explorer;Always+Learning+Something+New" />
+</h3>
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Web%20Development-58A6FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Interest-Data%20Analytics-3FB950?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Learning-Everyday-BC8CFF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/WEB%20DEVELOPMENT-7C3AED?style=for-the-badge&logo=code&logoColor=white" />
+  <img src="https://img.shields.io/badge/DATA%20ANALYTICS-9333EA?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/TECH%20ENTHUSIAST-C084FC?style=for-the-badge&logo=rocket&logoColor=white" />
 </p>
 
 ---
 
-## 🧑‍💻 About Me
+## ✦ About Me
 
-I'm a technology enthusiast passionate about building digital solutions and exploring how technology can solve real-world problems.
+```yaml
+name: Rafta Azka N.
+role: Aspiring Developer
+interests:
+  - Web Development
+  - Software Engineering
+  - Data Analytics
+  - Technology & Innovation
+currently_learning: Building Digital Solutions
+goal: Become a Professional Developer
+```
 
-- 💻 Interested in Web Development and Software Engineering.
-- 📊 Exploring Data Analytics and Database Management.
-- 🌱 Continuously learning new technologies and improving my skills.
-- 🚀 Interested in creating meaningful projects and digital products.
-- 🎯 Goal: Become a professional developer with global opportunities.
+I'm passionate about technology, software development, and creating digital experiences that solve real-world problems.
+
+- 💻 Exploring modern web technologies.
+- 📊 Learning data analytics and database management.
+- 🚀 Building projects and experimenting with new ideas.
+- 🌌 Interested in technology and innovation.
 
 ---
 
-## ⚡ Tech Stack
+## ✦ Tech Stack
 
-**Languages & Development**
+### Languages & Development
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,python" />
 </p>
 
-**Database & Tools**
+### Database & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,figma" />
 </p>
 
 ---
 
-## 🚀 Featured Projects
+## ✦ Featured Projects
 
-| Project | Description | Technology |
-|---|---|---|
-| AreaPulse | Digital project for location-based information | Web Development |
-| TeachSpace | Educational platform prototype | Web Development |
-| MySQL Practice | Database and query learning projects | MySQL |
+| Project | Description |
+|:---|:---|
+| **AreaPulse** | Location-based digital information platform |
+| **TeachSpace** | Educational platform prototype |
+| **MySQL Practice** | Database and query learning projects |
 
 ---
 
-## 📊 GitHub Statistics
+## ✦ GitHub Statistics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C084FC&icon_color=A78BFA&text_color=E9D5FF" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C084FC&text_color=E9D5FF" />
 </p>
 
 <p align="center">
-  <img width="95%" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+  <img width="80%" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=C084FC&currStreakLabel=C084FC" />
 </p>
 
 ---
 
-## 🐍 Contribution Activity
+## ✦ Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0D1117&color=C084FC&line=8B5CF6&point=E9D5FF&area=true&hide_border=true" width="100%" />
 </p>
 
 ---
 
-## 🌐 Let's Connect
+## ✦ Connect With Me
 
 <p align="center">
   <a href="https://github.com/YOUR_USERNAME">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-9333EA?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
@@ -91,6 +103,7 @@ I'm a technology enthusiast passionate about building digital solutions and expl
   <i>"Code. Learn. Build. Repeat."</i>
 </p>
 
+<!-- PURPLE WAVE FOOTER -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=58A6FF&label=PROFILE+VIEWS" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4C1D95,50:7C3AED,100:C084FC&height=120&section=footer" />
 </p>
