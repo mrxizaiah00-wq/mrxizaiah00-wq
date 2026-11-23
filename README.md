@@ -1,6 +1,6 @@
  <!-- PURPLE WAVE HEADER -->
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4C1D95,50:7C3AED,100:C084FC&height=220&section=header&text=Hi,%20I'm%20REX&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Building%20Digital%20Experiences&descAlignY=58&descSize=18&animation=fadeIn" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4C1D95,50:7C3AED,100:C084FC&height=220&section=header&text=%20Rafta Azka Naufal&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Building%20Digital%20Experiences&descAlignY=58&descSize=18&animation=fadeIn" />
 </p>
 
 <h3 align="center">
