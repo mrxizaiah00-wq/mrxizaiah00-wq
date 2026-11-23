@@ -40,7 +40,7 @@ I enjoy building digital solutions, exploring how systems work, and learning how
 </td>
 <td width="45%" align="center" valign="middle">
 
-<img src="[https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3aTcxbzRwaGNrZHRsbzZpYzh4NXhzbDIzeTd0MWIxOG54dTdiY3pvdSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/gH1jGsCnQBiFHWMFzh/giphy.gif" width="100%" alt="Animated Pixel Ar](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dmtxd3NpbGxzejBoYzc2MWg4ajhhZTJ1cjY3anZ1eThscjUybnBmNyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o7qDGWpJBdQ459C5G/giphy.gif)t"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGJpZ3lxYW42N2Y3cm5jNXJobnd5c3ByODFkdWZydWp4eTh2NXlmdSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/cUS4eAadp7GQz7kL9V/giphy.gif"/>
 
 </td>
 </tr>
